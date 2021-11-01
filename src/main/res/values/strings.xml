@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_countdown_yet_click_to_add">FAB_text</string>
+    <string name="FAB_text">No countdown yet, Click to add</string>
+    <string name="countdown_text">00:00</string>
+    <string name="Pause_timer">PAUSE</string>
+    <string name="Reset_timer">RESET</string>
+    <string name="add_event" />
+    <string name="start_countdown">START COUNTDOWN</string>
+</resources>
